@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/glow-go-hair-salon/static/css/main.07c21a48.css",
-    "main.js": "/glow-go-hair-salon/static/js/main.9fa2f5ce.js",
+    "main.js": "/glow-go-hair-salon/static/js/main.4d27535c.js",
     "static/js/453.4911122b.chunk.js": "/glow-go-hair-salon/static/js/453.4911122b.chunk.js",
     "index.html": "/glow-go-hair-salon/index.html",
     "main.07c21a48.css.map": "/glow-go-hair-salon/static/css/main.07c21a48.css.map",
-    "main.9fa2f5ce.js.map": "/glow-go-hair-salon/static/js/main.9fa2f5ce.js.map",
+    "main.4d27535c.js.map": "/glow-go-hair-salon/static/js/main.4d27535c.js.map",
     "453.4911122b.chunk.js.map": "/glow-go-hair-salon/static/js/453.4911122b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07c21a48.css",
-    "static/js/main.9fa2f5ce.js"
+    "static/js/main.4d27535c.js"
   ]
 }
