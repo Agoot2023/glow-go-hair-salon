@@ -1,12 +1,15 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
-
 const Footer = () => {
   return (
-    <footer className="bg-light py-3 mt-5">
-      <Container className="text-center">
-        <p>© 2025 Glow & Go Hair Salon. Designed by John Ghai Manyang</p>
-      </Container>
+    <footer
+      style={{
+        backgroundColor: '#f8d7e8',
+        color: '#333',
+        padding: '1rem',
+      }}
+      className="text-center"
+    >
+      <p>© 2025 Glow & Go Hair Salon. Designed by John Ghai Manyang</p>
     </footer>
   );
 };
